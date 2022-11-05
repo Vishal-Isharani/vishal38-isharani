@@ -16,14 +16,14 @@
 <br />
 <br />
 
-Hi, I'm Vishal Isharani, a Full Stack Developer 🚀 from India with 5+ years professional experiance, currently, I'm a Team Member 🙍🏽‍♂️ [@AppsphereLLP](https://github.com/app-sphere-softwares-llp), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/). Beside's programming, I enjoy running (sprinting).
+Hi, I'm Vishal Isharani, a Full Stack Developer 🚀 from India with 5+ years professional experiance, Beside's programming, I enjoy running (sprinting).
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Devoteability](https://devoteability.com/);
-- 🌱 I’m currently learning Python and Machine Learning; 
+- 👨🏽‍💻 I’m in love with JavaScript(Especially TypeScript);
+- 🌱 I’m learning Rust nowadays; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: isharanivishal@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/1aLgJcRPVkUVgRC9B0Or_ZmTrBJQ4QNxk/view)
@@ -45,6 +45,6 @@ Hi, I'm Vishal Isharani, a Full Stack Developer 🚀 from India with 5+ years pr
 
 ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=vishal38-isharani&show_icons=true&hide_border=true)
 
-[![HitCount](http://hits.dwyl.com/vishal38-isharani/aavantan-app.svg)](http://hits.dwyl.com/vishal38-isharani/aavantan-app)
+[![HitCount](http://hits.dwyl.com/vishal-isharani/aavantan-app.svg)](http://hits.dwyl.com/vishal38-isharani/aavantan-app)
 
-⭐️ From [Vishal Isharani](https://github.com/vishal38-isharani)
+⭐️ From [Vishal Isharani](https://github.com/vishal-isharani)
